@@ -1,3 +1,4 @@
+#create ami
 param (
     [Parameter(Mandatory = $true)]
     [string]$InstanceID,
